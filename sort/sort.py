@@ -1,0 +1,1 @@
+print("welcome to part 3")                     # print the list
